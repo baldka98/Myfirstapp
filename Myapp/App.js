@@ -4,6 +4,7 @@ export default function App() {
   return (
     <View style={styles.container}>
       <Xo />
+      <Text>HELLO GIT </Text>
       <Text> My first app </Text>
     </View>
   );
