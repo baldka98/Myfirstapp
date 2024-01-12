@@ -1,0 +1,17 @@
+p {
+    color: red
+}
+/* 1).class+enter div+urd n ugee bichne>
+2)  #id+enter "neree ugnu" 
+3) P{enter dar}
+4) HTML-г CSS-тэй холбохдоо link+enter дараад тэгээд .css file аа холбоно*/
+.orange{
+width: 100px;
+height: 100px;
+background-color:ora    
+}
+
+
+#my-id{
+  color: pink;  
+}

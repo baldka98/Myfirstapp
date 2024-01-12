@@ -1,0 +1,27 @@
+body{
+    background-color: antiquewhite;
+}
+.box{
+    background-color: aqua;
+    width: 100px;
+    height: 100px;
+    margin: 5px;
+}
+.fixed{
+    background-color: gold;
+    position:fixed;
+    top: 40px;
+    left: 40px;
+}
+.relative{
+    position: relative;
+    margin-left: 100px;
+}
+.absolute{
+    background-color: red;
+    position: absolute;
+    top: 40px;
+    left: 40px;
+    width: 100px;
+    height: 100px;
+}

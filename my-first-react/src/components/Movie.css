@@ -1,0 +1,16 @@
+.title
+{
+    justify-content: center;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.avanger
+{    
+    height: 800px;
+    width: 300px;
+    justify-content:space-evenly;
+    display: flex;
+    flex-direction:column ;
+
+}

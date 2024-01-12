@@ -1,0 +1,21 @@
+/* css selectors: HTML s element songoh arga */
+/* Tag selection */
+h3{
+    color: gold;
+}
+
+/* Id selection */
+#uniq-id{
+ color: aqua;
+}
+
+/* Class selection */
+.red {
+    color: red;
+}
+h2{
+    color: blue;
+}
+h2{
+    color: brown;
+}

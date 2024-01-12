@@ -1,0 +1,23 @@
+/* .container{
+    background-color: aquamarine;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+.contaier h1{
+    margin: 0%;
+}
+.container button{
+    background-color: blue;
+    color: aliceblue;
+    border-radius: 10px;
+    padding-inline: 10px;
+    padding-top: 6px;
+.contaier button:hover {
+ background-color: lightblue;
+}
+
+
+} */

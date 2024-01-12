@@ -1,0 +1,31 @@
+.hevtee{
+    display: flex;
+    justify-content: space-around;
+}
+
+
+.shar-hairtsag {
+    height: 100px;
+    width: 100px;
+    background-color: gold;
+    margin-top: 10px;
+}
+
+.jijighairtsag {
+    height: 50px;
+    width: 50px;
+    background-color: orange;
+    margin-top: 5px;
+}
+
+.increasebutton-ungu {
+    color: black;
+    background-color: green;
+}
+
+.uurchluh {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+
+}
